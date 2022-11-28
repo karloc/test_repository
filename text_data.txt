@@ -1,0 +1,2 @@
+Proizvoljni tekst za popunjavanje ove datoteke. Prva rečenica. Druga rečenica. Tekst, tekst, tekst i tekst.
+Slova i brojevi 1, 2, 3, 45678. Git i Github na Upravljanju informatičkim projektima, zadatak za bodove.
